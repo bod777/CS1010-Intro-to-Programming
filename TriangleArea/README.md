@@ -1,0 +1,3 @@
+Michaelmas Week 2
+Variables, Types, Assignments, Precedence,...
+Example Code
